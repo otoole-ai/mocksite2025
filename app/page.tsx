@@ -16,8 +16,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua.
+                Our first service provides innovative solutions designed to streamline your operations and enhance productivity.
               </p>
             </CardContent>
           </Card>
@@ -39,7 +38,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                Our third service focuses on delivering exceptional quality and value, ensuring your satisfaction with every interaction.
               </p>
             </CardContent>
           </Card>
