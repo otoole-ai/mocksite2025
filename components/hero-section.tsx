@@ -14,7 +14,7 @@ export function HeroSection() {
       <div className="container mx-auto text-center relative z-10">
         <h1 className="text-5xl font-extrabold mb-4 leading-tight">test123</h1>
         <p className="text-xl mb-8 max-w-2xl mx-auto">
-          Discover amazing content, insightful articles, and genuine customer reviews.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
         <div className="space-x-4">
           <Button asChild size="lg" className="bg-white text-purple-700 hover:bg-gray-100">
