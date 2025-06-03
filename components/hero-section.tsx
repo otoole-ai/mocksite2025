@@ -20,7 +20,7 @@ export function HeroSection() {
           <Button asChild size="lg" className="bg-white text-purple-700 hover:bg-gray-100">
             <Link href="/blog">Explore Blog</Link>
           </Button>
-          <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white/20">
+          <Button asChild size="lg" variant="outline" className="border-white text-gray-800 hover:bg-white/20">
             <Link href="/reviews">Read Reviews</Link>
           </Button>
         </div>
