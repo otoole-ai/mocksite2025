@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 
 export function Navbar() {
   return (
-    <header className="bg-primary text-primary-foreground py-4 shadow-md">
+    <header style={{ backgroundColor: 'green' }} className="text-primary-foreground py-4 shadow-md">
       <nav className="container mx-auto flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold">
           MockSite
