@@ -90,6 +90,6 @@ body {
     @apply bg-background text-foreground;
   }
   .navbar {
-    background-color: black;
+    background-color: blue;
   }
 }
