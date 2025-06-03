@@ -28,8 +28,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <p>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat.
+                Our second service offers tailored solutions to meet your unique needs, ensuring efficiency and excellence in every project.
               </p>
             </CardContent>
           </Card>
