@@ -21,9 +21,9 @@ export function FAQSection() {
         <h2 className="text-3xl font-bold text-center mb-6">Frequently Asked Questions</h2>
         <div className="space-y-4">
           {faqs.map((faq, index) => (
-            <div key={index} className="border-b pb-4">
+            <div key={index} className="border-b pb-4 text-center">
               <button
-                className="w-full text-left text-xl font-medium text-gray-800 focus:outline-none"
+                className="w-full text-xl font-medium text-gray-800 focus:outline-none"
                 onClick={() => toggleFAQ(index)}
               >
                 {faq.question}
