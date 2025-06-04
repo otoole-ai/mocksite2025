@@ -8,7 +8,7 @@ export function FAQSection() {
   const faqs = [
     { question: "What is MockSite?", answer: "MockSite is a platform for showcasing modern web designs." },
     { question: "How can I contact support?", answer: "You can contact support via our contact page or email us at support@mocksite.com." },
-    { question: "What services do you offer?", answer: "We offer a variety of web design and development services tailored to your needs." },
+    { question: "What services do you offer?", answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
   ];
 
   const toggleFAQ = (index: number) => {
