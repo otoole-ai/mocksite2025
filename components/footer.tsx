@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 export function FAQSection() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
@@ -48,17 +47,6 @@ export function Footer() {
           <div className="text-center md:text-left mb-4 md:mb-0">
             <h3 className="text-2xl font-bold">MockSite</h3>
             <p className="text-sm">&copy; {new Date().getFullYear()} MockSite. All rights reserved.</p>
-          </div>
-          <div className="flex space-x-6">
-            <a href="#" className="text-white hover:text-gray-400 transition">
-              <FaFacebook size={24} />
-            </a>
-            <a href="#" className="text-white hover:text-gray-400 transition">
-              <FaTwitter size={24} />
-            </a>
-            <a href="#" className="text-white hover:text-gray-400 transition">
-              <FaInstagram size={24} />
-            </a>
           </div>
         </div>
         <div className="flex justify-center space-x-4 mt-6">
