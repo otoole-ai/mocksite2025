@@ -6,8 +6,8 @@ export function HeroSection() {
     <section className="relative bg-gradient-to-r from-purple-600 to-indigo-600 text-white py-20 rounded-lg shadow-lg overflow-hidden">
       <div className="absolute inset-0 z-0 opacity-20">
         <img
-          src="/placeholder.svg?height=500&width=1000"
-          alt="Abstract background pattern"
+          src="https://via.placeholder.com/1000x500?text=Plumber+Image"
+          alt="Plumber at work"
           className="w-full h-full object-cover"
         />
       </div>
